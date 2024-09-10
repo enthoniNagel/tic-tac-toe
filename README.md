@@ -1,12 +1,9 @@
 # Jogo da Velha
 
 ## Agradecimento
-Gostaríamos de expressar meu sincero agradecimento à professora karencarvalho04. Seu apoio contínuo e orientação foram fundamentais para o desenvolvimento deste projeto.
+Gostaríamos de expressar meu agradecimento à professora karencarvalho04. Seu apoio contínuo e orientação foram fundamentais para o desenvolvimento deste projeto.
 
 ## Visão Geral
-
-Muito obrigado por todo o suporte e inspiração!
-
 
 O projeto "Jogo da Velha" é uma implementação clássica do popular jogo Tic-Tac-Toe, desenvolvido utilizando React. O projeto inclui funcionalidades de placar para acompanhamento da pontuação e um botão de reinício.
 
