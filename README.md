@@ -1,7 +1,7 @@
 # Jogo da Velha
 
 ## Agradecimento
-Gostaríamos de expressar meu agradecimento à professora karencarvalho04. Seu apoio contínuo e orientação foram fundamentais para o desenvolvimento deste projeto.
+Gostaríamos de expressar meu agradecimento à professora karencarvalho04. Seu apoio e orientação foram fundamentais para o desenvolvimento deste projeto.
 
 ## Visão Geral
 
